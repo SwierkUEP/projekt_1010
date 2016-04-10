@@ -3,4 +3,8 @@ def dodawanie():
 	b = int(input())
 	print(a + b)
 	
+def get_info()
+	print("Program kalkulator. Autor: Kamil")
+	
+get_info()
 dodawanie()
